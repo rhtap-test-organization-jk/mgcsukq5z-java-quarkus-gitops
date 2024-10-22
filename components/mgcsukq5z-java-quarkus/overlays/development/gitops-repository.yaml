@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mgcsukq5z-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/mgcsukq5z-java-quarkus-gitops
